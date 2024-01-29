@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec2aa20-6dcb-49bf-b6f4-a4c6a3e4d723" name="Changes" comment="Hooks is added" />
+    <list default="true" id="7ec2aa20-6dcb-49bf-b6f4-a4c6a3e4d723" name="Changes" comment="ElementHelper, runner and xml are added">
+      <change beforePath="$PROJECT_DIR$/src/main/java/testRunners/runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testRunners/runner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706566478802</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ElementHelper, runner and xml are added">
+      <option name="closed" value="true" />
+      <created>1706567869281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706567869281</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +183,7 @@
     <MESSAGE value="Hello World" />
     <MESSAGE value="DriverFactory is added" />
     <MESSAGE value="Hooks is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hooks is added" />
+    <MESSAGE value="ElementHelper, runner and xml are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ElementHelper, runner and xml are added" />
   </component>
 </project>
